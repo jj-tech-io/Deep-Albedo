@@ -25,4 +25,4 @@ The origin of skin color in this model is determined by the absorption and scatt
 
 1. Clone the repository:
    ```shell
-   [git clone https://github.com/[Your-GitHub-Username]/biophysical-skin-color-modeling.git](https://github.com/jj-tech-io/Deep-Albedo.git)https://github.com/jj-tech-io/Deep-Albedo.git
+   git clone https://github.com/jj-tech-io/Deep-Albedo.git)https://github.com/jj-tech-io/Deep-Albedo.git
