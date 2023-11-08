@@ -1,5 +1,13 @@
 # Biophysical Skin Color Modeling
+## Example Skin Color Changes
 
+Here are some examples of skin color changes modeled by our system:
+
+### Aging Effect
+![Aging Effect on Skin](images/Representative Image.jpg)
+
+### Emotion Effect: Anger
+![Skin Color Change due to Anger](images/emotion_anger_example.png)
 ## Introduction
 
 This project focuses on the simulation and modeling of human skin color changes as influenced by biological and emotional factors. By utilizing Monte Carlo photon simulations and neural autoencoders, we create biophysically accurate representations of skin color changes due to aging and emotion.
