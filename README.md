@@ -1,4 +1,4 @@
-### Deep ALbedo
+### Deep Albedo
 # Biophysical Skin Color Modeling
 ![images/Representative Image.jpg](https://github.com/jj-tech-io/Deep-Albedo/blob/master/images/Representative%20Image.jpg))
 
