@@ -13,6 +13,7 @@ The origin of skin color in this model is determined by the absorption and scatt
 - **Autoencoder**: Efficient real-time mapping between skin color and its biophysical properties.
 - **Aging and Emotion Effects**: Modeling the impact of aging and emotional states on skin color.
 - **Spatially Aware Transformations**: Learned from example images for detailed and accurate skin textures.
+[Watch the Deep Albedo Introduction Video](https://clipchamp.com/watch/W12SR9O47z4)
 
 
 ## Getting Started
