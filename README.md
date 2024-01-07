@@ -16,7 +16,7 @@ The origin of skin color in this model is determined by the absorption and scatt
 [Watch the Deep Albedo Introduction Video](https://clipchamp.com/watch/W12SR9O47z4)
 ## To try a demo ap for aging textures
 https://github.com/jj-tech-io/Modify_Texture_Docker.git
-[Watch the Deep Albedo Introduction Video](https://clipchamp.com/watch/W12SR9O47z4)
+[Watch the Age Texture Demo App Video](https://clipchamp.com/watch/W12SR9O47z4)
 
 ## Getting Started
 
