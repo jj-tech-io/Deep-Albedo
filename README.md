@@ -15,8 +15,9 @@ The origin of skin color in this model is determined by the absorption and scatt
 - **Spatially Aware Transformations**: Learned from example images for detailed and accurate skin textures.
 [Watch the Deep Albedo Introduction Video](https://clipchamp.com/watch/W12SR9O47z4)
 ## To try a demo app for aging textures
-https://github.com/jj-tech-io/Modify_Texture_Docker.git
-[Watch the Age Texture Demo App Video](https://clipchamp.com/watch/W12SR9O47z4)
+https://github.com/jj-tech-io/Modify_Texture_Docker.git 
+#
+[Watch the Age Texture Demo App Video] (https://clipchamp.com/watch/W12SR9O47z4)
 
 ## Getting Started
 
