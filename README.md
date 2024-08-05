@@ -30,3 +30,20 @@ The origin of skin color in this model is determined by the absorption and scatt
 1. Clone the repository:
    ```shell
    git clone https://github.com/jj-tech-io/Deep-Albedo.git
+### Related Videos
+- [Thesis Presentation Video](https://www.youtube.com/watch?v=2eaYhO5JoIg&ab_channel=JoelJohnson)
+
+### Read Thesis Publication
+Currently in the final process of being published, date TBA
+
+### References
+
+1. Joel Johnson, Kenneth Chau, Wei Sen Loi, Abraham Beauferris, Swati Kanwal, and Yingqian Gu. "Deep Albedo: A Spatially Aware Autoencoder Approach to Interactive Human Skin Rendering." In SIGGRAPH Asia 2023 Posters, SA '23, New York, NY,USA, 2023. Association for Computing Machinery. [Link](https://example.com)
+2. Joel Johnson, Wei Sen Loi. "Invited Workshop, W3: AI for Digital Humans at the 38th AAAI Conference on Artificial Intelligence (AAAI-24)," Vancouver, Canada, February 20-27, 2024. [Link](https://example.com)
+3. C. Aliaga, C. Hery, and M. Xia. "Estimation of Spectral Biophysical Skin Properties from Captured RGB Albedo." 2022. [arXiv:2201.10695](https://arxiv.org/abs/2201.10695).
+4. V. H. Aristizabal-Tique et al. "Facial Thermal and Blood Perfusion Patterns of Human Emotions: Proof-of-Concept." J. Thermal Biology, 112:103464, 2023.
+5. J. Arvo and D. Kirk. "Particle Transport and Image Synthesis." Computer Graphics, 24(4):63-66, 1990.
+6. A. N. Bashkatov et al. "Optical Properties of Skin, Subcutaneous, and Muscle Tissues: A Review." J. Innovative Optical Health Sciences, 2011.
+7. S. Chen and W. Guo. "Auto-encoders in Deep Learning." Mathematics (Basel),2023.
+8. C. Donner and H. Wann Jensen. "A Spectral BSSRDF for Shading Human Skin." Rendering Techniques, 409-418, 2006.
+
