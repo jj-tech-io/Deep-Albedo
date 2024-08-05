@@ -37,8 +37,7 @@ The origin of skin color in this model is determined by the absorption and scatt
 Currently in the final process of being published, date TBA
 
 ### References
-
-1. Joel Johnson, Kenneth Chau, Wei Sen Loi, Abraham Beauferris, Swati Kanwal, and Yingqian Gu. "Deep Albedo: A Spatially Aware Autoencoder Approach to Interactive Human Skin Rendering." In SIGGRAPH Asia 2023 Posters, SA '23, New York, NY,USA, 2023. Association for Computing Machinery. [Link](https://example.com)
+1. Joel Johnson, Kenneth Chau, Wei Sen Loi, Abraham Beauferris, Swati Kanwal, and Yingqian Gu. "Deep Albedo: A Spatially Aware Autoencoder Approach to Interactive Human Skin Rendering." In SIGGRAPH Asia 2023 Posters, SA '23, New York, NY, USA, 2023. Association for Computing Machinery. [SIGGRAPH Poster Link](https://dl.acm.org/doi/10.1145/3610542.3626112)
 2. Joel Johnson, Wei Sen Loi. "Invited Workshop, W3: AI for Digital Humans at the 38th AAAI Conference on Artificial Intelligence (AAAI-24)," Vancouver, Canada, February 20-27, 2024. [Link](https://example.com)
 3. C. Aliaga, C. Hery, and M. Xia. "Estimation of Spectral Biophysical Skin Properties from Captured RGB Albedo." 2022. [arXiv:2201.10695](https://arxiv.org/abs/2201.10695).
 4. V. H. Aristizabal-Tique et al. "Facial Thermal and Blood Perfusion Patterns of Human Emotions: Proof-of-Concept." J. Thermal Biology, 112:103464, 2023.
