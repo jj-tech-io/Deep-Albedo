@@ -36,6 +36,9 @@ The origin of skin color in this model is determined by the absorption and scatt
 ### Read Thesis Publication
 Currently in the final process of being published, date TBA
 
+### Synthetic Dataset - Procedural Humans
+[Google Drive Link](https://drive.google.com/drive/folders/1a-KYVfZHs5B5T6T_BdnPf91QR1ekOUny?usp=sharing)
+
 ### References
 1. Joel Johnson, Kenneth Chau, Wei Sen Loi, Abraham Beauferris, Swati Kanwal, and Yingqian Gu. "Deep Albedo: A Spatially Aware Autoencoder Approach to Interactive Human Skin Rendering." In SIGGRAPH Asia 2023 Posters, SA '23, New York, NY, USA, 2023. Association for Computing Machinery. [SIGGRAPH Poster Link](https://dl.acm.org/doi/10.1145/3610542.3626112)
 2. Joel Johnson, Wei Sen Loi. "Invited Workshop, W3: AI for Digital Humans at the 38th AAAI Conference on Artificial Intelligence (AAAI-24)," Vancouver, Canada, February 20-27, 2024. [Link](https://example.com)
