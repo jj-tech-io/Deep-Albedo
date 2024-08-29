@@ -34,8 +34,6 @@ The origin of skin color in this model is determined by the absorption and scatt
 [Thesis Presentation Video](https://www.youtube.com/watch?v=2eaYhO5JoIg&ab_channel=JoelJohnson)
 
 ### Read Thesis Publication
-Currently in the final process of being published, date TBA
-
 [Download Final Thesis](./ubc_2024_november_johnson_joel_compressed%20(3).pdf)
 
 
