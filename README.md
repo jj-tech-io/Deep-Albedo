@@ -31,7 +31,7 @@ The origin of skin color in this model is determined by the absorption and scatt
    ```shell
    git clone https://github.com/jj-tech-io/Deep-Albedo.git
 ### Related Videos
-- [Thesis Presentation Video](https://www.youtube.com/watch?v=2eaYhO5JoIg&ab_channel=JoelJohnson)
+[Thesis Presentation Video](https://www.youtube.com/watch?v=2eaYhO5JoIg&ab_channel=JoelJohnson)
 
 ### Read Thesis Publication
 Currently in the final process of being published, date TBA
