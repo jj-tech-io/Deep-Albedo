@@ -36,7 +36,8 @@ The origin of skin color in this model is determined by the absorption and scatt
 ### Read Thesis Publication
 Currently in the final process of being published, date TBA
 
-**[Download Final Thesis](./ubc_2024_november_johnson_joel_compressed (3).pdf)**
+[Download Final Thesis](./ubc_2024_november_johnson_joel_compressed%20(3).pdf)
+
 
 ### Synthetic Dataset - Procedural Humans
 [Google Drive Link](https://drive.google.com/drive/folders/1a-KYVfZHs5B5T6T_BdnPf91QR1ekOUny?usp=sharing)
